@@ -9,6 +9,10 @@ COCO train 2017 118k/18 GB - http://images.cocodataset.org/zips/train2017.zip
 
 annotation_trainval2017 [ 241 MB ] Dataset - http://images.cocodataset.org/annotations/annotations_trainval2017.zip
 
+# Presentation
+👉 View the presentation on Canva:
+[Open Canva Presentation](https://www.canva.com/design/DAG4xS4y30k/v5eE32S8iKl_5hmz4sjZlw/edit)
+
 ## project Title 
 **Image Captioning Using CNN–LSTM with Attention**
 
